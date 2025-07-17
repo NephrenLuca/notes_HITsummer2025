@@ -204,10 +204,10 @@ $$
 - Strong: 6 instances (3 yes, 3 no)
 
 $$
-Entropy(Weak) = -\frac{6}{8} \times \log_2(\frac{6}{8}) - \frac{2}{8} \times \log_2(\frac{2}{8}) = 0.811
-Entropy(Strong) = -\frac{3}{6} \times \log_2(\frac{3}{6}) - \frac{3}{6} \times \log_2(\frac{3}{6}) = 1.000
+Entropy(Weak) = -\frac{6}{8} \times \log_2(\frac{6}{8}) - \frac{2}{8} \times \log_2(\frac{2}{8}) = 0.811\\
+Entropy(Strong) = -\frac{3}{6} \times \log_2(\frac{3}{6}) - \frac{3}{6} \times \log_2(\frac{3}{6}) = 1.000\\
 
-IG(Wind) = 0.940 - (\frac{8}{14} \times 0.811 + \frac{6}{14} \times 1.000)
+IG(Wind) = 0.940 - (\frac{8}{14} \times 0.811 + \frac{6}{14} \times 1.000)\\
 IG(Wind) = 0.940 - (0.463 + 0.429) = 0.048
 $$
 
